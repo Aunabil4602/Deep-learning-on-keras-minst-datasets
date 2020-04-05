@@ -1,1 +1,1 @@
-# Deep-learning-on-keras-minst-datasets
+# Deep-learning-on-keras-mnist-datasets
